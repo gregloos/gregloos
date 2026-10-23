@@ -1,16 +1,13 @@
-## Hi there 👋
+## Gregorio Losekoot
 
-<!--
-**gregloos/gregloos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied AI engineer in Lugano: LLMs, RAG, agents and evaluation, in TypeScript and Python.
 
-Here are some ideas to get you started:
+**LoosData** (loosdata.ch), founder and lead engineer. Il Cervello dello Studio is an AI system live at a fiduciary firm in Ticino: mail intake, a document pipeline with OCR and LLM classification, an agent over the client archive, and release-gating evaluation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Solvo Fabrica**, founding engineer. I built the whole platform, including a multi-agent system on Claude and pgvector matching.
+
+My production work lives in private company repositories, so it doesn't show here. I'm happy to walk through the architecture and code in an interview.
+
+Public here: a GPT-2-style language model implemented from scratch in PyTorch, plus ML projects in forecasting, computer vision and regression from first principles.
+
+gregorio@loosdata.ch · [LinkedIn](https://www.linkedin.com/in/gregorio-losekoot)
